@@ -7,6 +7,12 @@ int main(){
     int firstNumber;
     int secondNumber;
 
+    cout <<"Insert your first: "<<endl;
+    cin>>firstNumber;
+
+    cout <<"Insert your first: "<<endl;
+    cin>>secondNumber;
+
     if(firstNumber>secondNumber){
 
         cout<<"The first number is greater than the second"<<endl;

@@ -7,6 +7,9 @@ int main (){
 float price;
 float discount;
 
+cout<<"How much is your purchase amount?"<<endl;
+cin>>price;
+
     if(price>100){
 
     cout<<"You have a discount on your purchase of: "<<price<<endl;
